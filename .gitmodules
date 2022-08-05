@@ -1,3 +1,4 @@
-[submodule "themes/minima"]
-	path = themes/minima
-	url = https://github.com/haoliutech/minima_clone.git
+[submodule "themes/minima2"]
+	path = themes/minima2
+	url = https://github.com/haoliutech/minima_clone_1.git
+	branch = master
